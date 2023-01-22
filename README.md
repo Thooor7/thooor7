@@ -8,10 +8,10 @@
 <div align=center>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="heitor.dev7@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" alt="heitor.dev7@gmail.com" height="30" width="40" /></a>    
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/heitor-de-sousa-vieira-488824186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/heitor-de-sousa-vieira-488824186/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucukr8vzkyvm5drm5yowru0q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucukr8vzkyvm5drm5yowru0q" height="30" width="40" /></a>
-<a href="https://discord.gg/MonoNeon#8902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MonoNeon#8902" height="30" width="40" /></a>
+<a href="mailto:heitor.dev7@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" target="_blank" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/heitor-de-sousa-vieira-488824186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/channel/UCukr8vzKyvm5Drm5yoWrU0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" target="_blank" height="30" width="40" /></a> 
+<a href="https://discord.gg/MonoNeon#8902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" target="_blank" height="30" width="40" /></a>
 </p>
   
   </div>
