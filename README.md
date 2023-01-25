@@ -23,8 +23,12 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 </div>
 
-<div align="center">  
-   <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api?username=thooor7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Monalisa Menezes" />
 
-  <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thooor7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+
+ <div align='center'> 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thooor7&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thooor7&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thooor7&theme=dracula) 
+
+</div>  
