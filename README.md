@@ -27,8 +27,8 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
  <div align='center'> 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thooor7&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thooor7&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thooor7&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thooor7&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thooor7&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thooor7&theme=dracula) 
 
 </div>  
